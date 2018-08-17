@@ -4,6 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="Test.TC001"/>
+      <class name="Test.TC002"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
